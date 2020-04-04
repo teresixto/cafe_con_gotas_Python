@@ -1,0 +1,15 @@
+PS D:\Desarrollo\python\cursoBCS> cd .\prueba_env\
+PS D:\Desarrollo\python\cursoBCS\prueba_env> python -m venv .\.pythonenv
+PS D:\Desarrollo\python\cursoBCS\prueba_env> dir
+
+
+    Directorio: D:\Desarrollo\python\cursoBCS\prueba_env
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----       04/04/2020     13:17                .pythonenv
+
+
+PS D:\Desarrollo\python\cursoBCS\prueba_env> .\.pythonenv\Scripts\activate.bat
+PS D:\Desarrollo\python\cursoBCS\prueba_env> .\.pythonenv\Scripts\deactivate.bat
