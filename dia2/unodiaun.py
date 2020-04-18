@@ -11,7 +11,9 @@ print ('Hola' + + nome) #agora imprimo
 
 if (nome == 'salvari'):
     print ('cambiou de nome')
-else ('seguramente o nome é Guido')
+else :
+    print('seguramente o nome é Guido')
+    
 
 if nome == 'salvari':
     print (1)
